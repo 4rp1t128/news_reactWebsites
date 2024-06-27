@@ -1,4 +1,4 @@
-# News-app-React
+# news_reactWebsites
 Personal news reading website.
 
 This is a front-end react application for your daily dose of latest news and happenings.
